@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bcs-automation", "bcs-automation\bcs-automation.csproj", "{C3DBDA00-7C3A-48EB-A67A-5E6A30809153}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestCaptchaSolverAPI", "BestCaptchaSolverAPI\BestCaptchaSolverAPI.csproj", "{952613DE-192E-4DBF-988C-FD761B43E087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C3DBDA00-7C3A-48EB-A67A-5E6A30809153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3DBDA00-7C3A-48EB-A67A-5E6A30809153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3DBDA00-7C3A-48EB-A67A-5E6A30809153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3DBDA00-7C3A-48EB-A67A-5E6A30809153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{952613DE-192E-4DBF-988C-FD761B43E087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{952613DE-192E-4DBF-988C-FD761B43E087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{952613DE-192E-4DBF-988C-FD761B43E087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{952613DE-192E-4DBF-988C-FD761B43E087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E082989B-136C-421F-A7E0-C7A11136E968}
+	EndGlobalSection
+EndGlobal
