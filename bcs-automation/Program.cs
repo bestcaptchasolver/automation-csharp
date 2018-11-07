@@ -200,6 +200,7 @@ namespace bcs_automation
                 var opts = new Dictionary<string, string>();
                 opts.Add("page_url", url);
                 opts.Add("site_key", site_key);
+                opts.Add("type", "2");      // set type to 2, default: 1 - v2
 
                 // submit to bcs for solving
                 var id = bcs.submit_recaptcha(opts);
